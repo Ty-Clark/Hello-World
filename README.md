@@ -20,10 +20,10 @@ This is my _very first_ introduction to using GitHub repositories
 
 ### How to Run Program
 1. Step 1
-  - First nested task
+    - First nested task
 2. Step 2
 3. Step 3
-  - Second nested task
+    - Second nested task
 4. Step 4
 
 ### Additional Information

@@ -18,7 +18,7 @@ This is my _very first_ introduction to using GitHub repositories
 - File 2
 - File 3
 
-### How to Run Program
+### Steps to Run the Program
 1. Step 1
     - First nested task
 2. Step 2

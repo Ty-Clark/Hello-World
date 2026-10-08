@@ -1,5 +1,4 @@
-# Hello-World 
-### My first practice repository :sunglasses:
+# My first practice repository :sunglasses:
 
 ## Project Title
 **GitHub Introduction to Respoitories**

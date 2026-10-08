@@ -6,7 +6,7 @@
 **GitHub Introduction to Respoitories**
 
 ### Description
-This is my _very first_ introduction to using GitHub repositories
+This is my _very first_ introduction to using GitHub repositories. 
 
 ### Tools Used
 - Tool 1
@@ -22,9 +22,13 @@ This is my _very first_ introduction to using GitHub repositories
 1. Step 1
     - First nested task
 2. Step 2
-3. Step 3
     - Second nested task
+3. Step 3
+    - Third nested task
 4. Step 4
 
 ### Additional Information
+Any additional information would be down here, but I don't think that you need it.
 
+1. ~~Additional Information1~~
+2. ~~Additional Information2~~

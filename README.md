@@ -1,8 +1,8 @@
 # Hello-World 
-## My first practice repository :sunglasses:
+### My first practice repository :sunglasses:
 
 
-### Project Title
+## Project Title
 **GitHub Introduction to Respoitories**
 
 ### Description
@@ -27,3 +27,4 @@ This is my _very first_ introduction to using GitHub repositories
 4. Step 4
 
 ### Additional Information
+

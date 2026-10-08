@@ -1,22 +1,18 @@
 # Hello-World 
 ### My first practice repository :sunglasses:
 
-
 ## Project Title
 **GitHub Introduction to Respoitories**
 
 ### Description
 This is my _very first_ introduction to using GitHub repositories. 
-
 ### Tools Used
 - Tool 1
 - Tool 2
-- Tool 3
 
 ### Files Used
 - File 1
 - File 2
-- File 3
 
 ### Steps to Run the Program
 1. Step 1
@@ -25,7 +21,6 @@ This is my _very first_ introduction to using GitHub repositories.
     - Second nested task
 3. Step 3
     - Third nested task
-4. Step 4
 
 ### Additional Information
 Any additional information would be down here, but I don't think that you need it.
